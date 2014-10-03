@@ -29,7 +29,6 @@
   <script src="../../foundation/js/vendor/custom.modernizr.js"></script>
 
 <?php include "../../common/metrics-head.js";?>
-	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52f93567099a6a05"></script>
 
 <!-- project specific -->
 	<style type="text/css">
@@ -37,6 +36,8 @@
 		table tr td {padding: 0;}
 		input[type="text"] {height:inherit !important}
 		form#caspioform p {font-size: 0.875rem !important;line-height: 1.125rem !important;}
+		.distname {text-transform: uppercase; font-size: 1rem;}
+		h2 {font-weight: bold;}
 	</style>
 
 
@@ -68,16 +69,53 @@
 	</div>
 </div>
 
-
 <div class="row">
-	<div class="large-5 medium-4 columns">
-		<div id="cbe76c0000ac901ab0bdda477a83a8"></div>
+	<div class="small-12 small-pull-12 large-4 medium-4 columns">
+		<!-- mug -->
+		<div id="candMug"></div>
+	</div>
+	<div class="small-12 small-push-12 large-4 medium-4 columns">
+		<!-- details -->
+		<div id="cbe76c00009460aef4d88d4be78982"></div>
 		<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
-		<script type="text/javascript">try{f_cbload("e76c0000ac901ab0bdda477a83a8","http:");}catch(v_e){;}</script>
-		<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c0000ac901ab0bdda477a83a8">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
+		<script type="text/javascript">try{f_cbload("e76c00009460aef4d88d4be78982","http:");}catch(v_e){;}</script>
+		<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c00009460aef4d88d4be78982">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
+	</div>
+	<div class="large-4 medium-4 columns">
+		<!-- questions -->
+		<h3 class="show-for-medium-up" style="margin-top: -.6rem;">On the issues</h3>
+		<h3 class="show-for-small-only" >On the issues</h3>
+		
+		<div id="cbe76c0000a698dd2a467b4a1a8533"></div>
+		<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
+		<script type="text/javascript">try{f_cbload("e76c0000a698dd2a467b4a1a8533","http:");}catch(v_e){;}</script>
+		<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c0000a698dd2a467b4a1a8533">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
+	</div>
+</div>
+<div class="row">
+	<br class="show-for-medium-up">
+	<div class="large-7 medium-8 columns">
+		<!-- bio -->
+		<div id="cbe76c00003e794084cf674708a2cb"></div>
+		<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
+		<script type="text/javascript">try{f_cbload("e76c00003e794084cf674708a2cb","http:");}catch(v_e){;}</script>
+		<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c00003e794084cf674708a2cb">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
+	</div>
+	<div class="large-5 medium-4 columns" id="candVideo">
+	</div>
+</div>
+
+<div class="row hide" id="candFinance">
+	<div class="large-5 medium-4 columns">
+		<h3>Campaign finance reports</h3>
+		<div id="cbe76c000031cef3b896ee44869195"></div>
+		<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
+		<script type="text/javascript">try{f_cbload("e76c000031cef3b896ee44869195","http:");}catch(v_e){;}</script>
+		<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c000031cef3b896ee44869195">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
+		<p style="margin-left: .4rem;">Campaign finance reports will be released by the city on the following dates: July 15, Oct. 8, Oct. 27 and, in the case of a runoff, Dec. 8th. The total raised is the sum of all contributions reported since candidates could begin raising funds on May 8th. In some cases, the individual report numbers don't add up perfectly because checks hadn't cleared or hadn't been deposited by the end of the fundraising period. Not all candidates had finance report filings for each reporting period.</p>
+
 	</div>
 	<div class="large-7 medium-8 columns">
-		<h3 style="margin-top:1rem">Individual finance reports</h3>
 		<div class="show-for-medium-up">
 			<h5>Key: <span style="color:#1d8bd1">Contributions</span>, <span style="color:#f1683c">Expenditures</span>, <span style="color:#2ad62a">Loans</span>, <span style="color:#dbdc25">Balance</span></h5><div id="cbe76c00009a5a4a5489914e4ba3ea"></div>
 			<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
@@ -85,40 +123,11 @@
 			<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c00009a5a4a5489914e4ba3ea">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
 		</div>
 		<div class="show-for-small-only">
-			<div id="cbe76c00004c007b0f9f44434bb0fd"></div>
+		<div id="cbe76c00004c007b0f9f44434bb0fd"></div>
 			<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
 			<script type="text/javascript">try{f_cbload("e76c00004c007b0f9f44434bb0fd","http:");}catch(v_e){;}</script>
-			<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c00004c007b0f9f44434bb0fd">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div><br>
+			<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c00004c007b0f9f44434bb0fd">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
 		</div>
-	</div>
-</div>
-
-<div class="row">
-	<div class="large-2 medium-2 columns">
-		<div id="candMug"></div>
-		<!-- bio -->
-	</div>
-	<div class="large-5 medium-5 columns">
-		<!-- bio -->
-		<div id="cbe76c00003e794084cf674708a2cb"></div>
-		<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
-		<script type="text/javascript">try{f_cbload("e76c00003e794084cf674708a2cb","http:");}catch(v_e){;}</script>
-		<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c00003e794084cf674708a2cb">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
-	</div>
-
-	<div class="large-5 medium-5 columns end">
-		<!-- questions -->
-		<div id="cbe76c0000e4930961d8df40f589e4"></div>
-		<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
-		<script type="text/javascript">try{f_cbload("e76c0000e4930961d8df40f589e4","http:");}catch(v_e){;}</script>
-		<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c0000e4930961d8df40f589e4">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
-	</div>
-</div>
-
-<hr>
-<div class="row">
-	<div class="large-12 columns">
-		<p>Campaign finance reports will be released by the city on the following dates: July 15, Oct. 8, Oct. 27 and, in the case of a runoff, Dec. 8th. The total raised is the sum of all contributions reported since candidates could begin raising funds on May 8th. In some cases, the individual report numbers don't add up perfectly because checks hadn't cleared or hadn't been deposited by the end of the fundraising period. Not all candidates had finance report filings for each reporting period.</p>
 	</div>
 </div>
 
@@ -137,12 +146,20 @@
 
 <!-- project scripts -->
 <script type="text/javascript">
+	var output = '<img class="detailmug" src="images/' + candName + '.jpg" alt="' + candName + '">';
 	if (candMug != "") {
-		var output = '<img class="detailmug" src="http://media.cmgdigital.com/shared/lt/lt_cache/resize/320x320/' + candMug + '" width="320" height="320" alt="' + candName + '">';
-		output += '<p class="caption">' + candName + '</p>';
-			$('#candMug').html(output);
+		$('#candMug').html(output);
 		}
+	var output = '<div class="flex-video"><iframe width="560" height="315" src="//www.youtube.com/embed/' + candVideo + '" frameborder="0" allowfullscreen></iframe></div>';
+	if (candVideo != "") {
+		$('#candVideo').html(output);
+		}
+	if (candFinance != "") {
+		$('#candFinance').removeClass("hide")
+	}
 </script>
+
+
 
 <?php include "search-metrics.js"; ?>
 <?php include "../../common/metrics.js"; ?>
