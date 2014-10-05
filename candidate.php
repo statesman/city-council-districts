@@ -139,23 +139,30 @@
 
 <!-- foundation -->
 <script src="../../foundation/js/vendor/jquery.js"></script>
+<script src="http://jqueryvalidation.org/files/dist/jquery.validate.min.js"></script>
 <script src="../../foundation/js/foundation.min.js"></script>
+
 <script>
 	$(document).foundation();
 </script>
 
 <!-- project scripts -->
+
 <script type="text/javascript">
 	var output = '<img class="detailmug" src="images/' + candName + '.jpg" alt="' + candName + '">';
 	if (candMug != "") {
 		$('#candMug').html(output);
 		}
+</script>
+<script type="text/javascript">
 	var output = '<div class="flex-video"><iframe width="560" height="315" src="//www.youtube.com/embed/' + candVideo + '" frameborder="0" allowfullscreen></iframe></div>';
 	if (candVideo != "") {
 		$('#candVideo').html(output);
 		}
+</script>
+<script type="text/javascript">
 	if (candFinance != "") {
-		$('#candFinance').removeClass("hide")
+		$('#candFinance').removeClass("hide");
 	}
 </script>
 
