@@ -28,21 +28,22 @@ Database is published but it is still in flux as data is added and the database 
   * Datapages
     * (edit) Candidate Add: Form to add new candidates. Probably won't be used anymore.
     * (v4) Candidate Bio v3: Bio information for v3 of the database. Also used in v4. 
-    * Candidate details v2: Basic name, age, etc. This has the finance totals. This is being used in 9/3/2014 version
+    * (disabled) Candidate details v2: Basic name, age, etc. This has the finance totals. This is being used in 9/3/2014 version
     * (v4) Candidate details v4: Basic name, age, etc., but w/out finance totals.
     * (v4) Candidate Finance totals v4: Used with v4 to move totals down the page.
     * (edit) Candidate Edit: To edit candidate records.
-    * Candidate Form Search: for editorial survey editing
-    * Candidate Questions v3: The piece with just the 3 questions answered. Used for 9/3/2014
+    * (disabled)Candidate Form Search: for editorial survey editing
+    * (disabled) Candidate Questions v3: The piece with just the 3 questions answered. Used for 9/3/2014
     * (v4) Candidate Questions v4: Removed the headers.
     * (v4) Candidate Search v2: Used for 9/3/2014
-    * Candidate Search v3: Not active. Think this was just a test.
+    * (disabled) Candidate Search v3: Not active. Think this was just a test.
     * (edit) Candidate Survey Edit: what is says
     * Candidates Search Small v1: not being used.
     * Candidates Search v1: not being used.
     * (edit) Finances Add: form for adding finance reports
     * (edit) Finances Chart Report: to get the chart on the page
     * (edit) Finances edit: To edit existing reports.
+    * (v4) Finances small v2: Being used for 4v, I think.
 
 The note in (parenthesis) shows which versions are being currently used for something.
 
