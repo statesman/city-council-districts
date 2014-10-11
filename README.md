@@ -35,6 +35,7 @@ Database is published but it is still in flux as data is added and the database 
     * (disabled)Candidate Form Search: for editorial survey editing
     * (disabled) Candidate Questions v3: The piece with just the 3 questions answered. Used for 9/3/2014
     * (v4) Candidate Questions v4: Removed the headers.
+      * Added Endorsements to this datapage on 10/11/2014.
     * (v4) Candidate Search v2: Used for 9/3/2014
     * (disabled) Candidate Search v3: Not active. Think this was just a test.
     * (edit) Candidate Survey Edit: what is says
