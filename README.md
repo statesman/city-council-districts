@@ -2,6 +2,8 @@ City Council Candidate database details
 =======================================
 
 Database is published but it is still in flux as data is added and the database has morphed. These notes hopefully will help keep track.
+
+Making a change just to test some github stuff.
   
   * [Public](http://projects.statesman.com/databases/city-council-districts/)
   * [Edit](http://projects.statesman.com/databases/city-council-districts/edit/)
