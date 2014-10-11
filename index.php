@@ -9,7 +9,7 @@
   <meta name="apple-mobile-web-app-title" content="City Council candidate database">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <link rel="apple-touch-icon" href="../../common/appicon_aas.jpg">
-  <link rel="icon" type="image/png" href="http://media.cmgdigital.com/shared/media/2014-04-15-09-43-10/web/site/www_statesman_com/images/favicon.ico">
+  <link rel="icon" type="image/png" href="../../common/favicon.ico">
 
   <meta name="apple-mobile-web-app-capable" content="yes">
   <link rel="apple-touch-icon" href="../../common/appicon_aas.jpg">

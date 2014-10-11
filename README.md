@@ -15,6 +15,11 @@ Database is published but it is still in flux as data is added and the database 
     * changed mugs to use images stored in project as opposed to Medley. There must be something in the Caspio field for photo for it to work, though, but it won't be pulling from that URL anymore.
     * Added YouTube videos. Add the youtube unique ID to record in Caspio to display
     * Added Endorsements field to the admin, but not in display yet.
+  * v4 edits (10/11/2014)
+    * removed the charts because they would not display correctly. The axis was outside the frame and hidden. Can't figure out whey. Created new datapage for this
+    * rearranged some of the column choices at various sizes for better display
+    * Fixed finance report date
+    * added endorsements to display (when present) in the Questions datapage.
 
 ## Main database
 
@@ -42,7 +47,8 @@ Database is published but it is still in flux as data is added and the database 
     * Candidates Search Small v1: not being used.
     * Candidates Search v1: not being used.
     * (edit) Finances Add: form for adding finance reports
-    * (edit) Finances Chart Report: to get the chart on the page
+    * (test datapage) Finances Chart Report: to get the chart on the page. Can use this to troubleshoot chart issues.
+    * (v4) Finances Chart Report v4: Removed the chart from the report because of problems.
     * (edit) Finances edit: To edit existing reports.
     * (v4) Finances small v2: Being used for 4v, I think.
 
