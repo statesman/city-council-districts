@@ -67,7 +67,8 @@
 
 <div class="row">
 	<div class="large-8 medium-8 columns">
-		<p>Use the search below to see a list of candidates who have announced for each City Council seat and their most recent campaign finance totals. Search by council seat or by typing part of a candidate's name. Leave the fields blank to see all the candidates.</p>
+		<p>Use the search below to see a list of candidates who on the ballot each City Council seat. Each candidate page includes a bio, their stance on three important issues, endorsements, a video profile and more. Search by council seat or by typing part of a candidate's name. Leave the fields blank to see all the candidates.</p>
+		<h3>Find your candidates</h3>
 		<div id="cbe76c00008e60c81cb1074a3cbeb7"></div>
 		<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
 		<script type="text/javascript">try{f_cbload("e76c00008e60c81cb1074a3cbeb7","http:");}catch(v_e){;}</script>
