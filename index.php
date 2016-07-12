@@ -51,9 +51,6 @@
 
 		<section class="top-bar-section">
 			<!-- Right Nav Section -->
-			<ul class="right">
-                <li><a href="./">SEARCH</a></li>
-			</ul>
   		</section>
 	</nav>
 </div>
@@ -62,30 +59,11 @@
 <div class="row">
 	<div class="large-12 columns">
 		<h1>Austin City Council candidate search</h1>
+        <p>This site is closed. Sorry for the inconvenience.</p>
 	</div>
 </div>
 
-<div class="row">
-	<div class="large-8 medium-8 columns">
-		<p>Use the search below to see a list of candidates who on the ballot each City Council seat. Each candidate page includes a bio, their stance on three important issues, endorsements, a video profile and more. Search by council seat or by typing part of a candidate's name. Leave the fields blank to see all the candidates.</p>
-		<h3>Find your candidates</h3>
-		<div id="cbe76c00008e60c81cb1074a3cbeb7"></div>
-		<script type="text/javascript" src="http://bridge.caspio.net/scripts/e1.js"></script>
-		<script type="text/javascript">try{f_cbload("e76c00008e60c81cb1074a3cbeb7","http:");}catch(v_e){;}</script>
-		<div id="cxkg"><a href="http://bridge.caspio.net/dp.asp?AppKey=e76c00008e60c81cb1074a3cbeb7">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
-	</div>
-	<div class="large-4 medium-4 show-for-medium-up columns">
-		<a href="http://www.mystatesman.com/interactive/austin-voting-districts-final/" target="_blank"><img src="smallmap.jpg"></a>
-		<p><a href="http://www.mystatesman.com/interactive/austin-voting-districts-final/" target="_blank">Click here for an interactive map of the council districts</a>. For more on Austin's new 10-1 council, visit <a href="http://www.statesman.com/s/news/news/local-govt-politics/austin-city-council-districts/" target="_blank">statesman.com/councildistricts</a>.</p>
-	</div>
-</div>
 
-<div class="row show-for-small-only ">
-	<div class="columns">
-		<a href="http://www.mystatesman.com/interactive/austin-voting-districts-final/" target="_blank"><img src="smallmap.jpg"></a>
-		<p><a href="http://www.mystatesman.com/interactive/austin-voting-districts-final/" target="_blank">Click here for an interactive map of the council districts</a>. For more on Austin's new 10-1 council, visit <a href="http://www.statesman.com/s/news/news/local-govt-politics/austin-city-council-districts/" target="_blank">statesman.com/councildistricts</a>.</p>
-	</div>
-</div>
 
 <hr>
 
