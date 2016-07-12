@@ -1,6 +1,13 @@
 City Council Candidate database details
 =======================================
 
+## mothballed
+
+With end of Caspio contract, we shut this down. `master` is last published version. `mothball` is what is currently published.
+
+
+-------
+
 Database is published but it is still in flux as data is added and the database has morphed. These notes hopefully will help keep track.
   
   * [Public](http://projects.statesman.com/databases/city-council-districts/)
